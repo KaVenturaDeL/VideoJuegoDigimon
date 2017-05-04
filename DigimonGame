@@ -46,7 +46,7 @@ void setup()
   inicio = loadImage("Digimon.jpg");
   seleccion = loadImage("SelectYourDig.jpg");
   fondo = loadImage("Ciudad.jpg");
-  resultado = loadImage("Fin.jpg");
+  resultado = loadImage("Ciudad.jpg");
   
   //Criaturas
   evee = new criatura("criatura evee",100,40,20,50,0);
